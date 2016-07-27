@@ -5,6 +5,15 @@ title: breviaire
 
 # Bréviaire
 
+** Index:**
+
+* [Réveillez-vous Picards](#réveillez-vous-picards)
+* [Le plaisir des dieux](#le-plaisir-des-dieux)
+* [Joyeux enfants de la Bourgogne](#joyeux-enfants-de-la-bourgogne)
+* [Le Hussard de la Garde](#le-hussard-de-la-garde)
+* [Fanchon](#fanchon)
+* [L’Hymne du carabin](#lhymne-du-carabin)
+
 ## Réveillez-vous Picards
 
 1. Réveillez-vous Picards,  
